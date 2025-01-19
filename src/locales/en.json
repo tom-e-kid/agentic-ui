@@ -1,0 +1,31 @@
+{
+  "title": "AI x UX - Designing the Perfect Space for Human-AI Collaboration",
+  "description": "We explore how humans and AI can work together naturally to create intuitive and enjoyable user experiences.",
+  "concept": {
+    "title": "What Does UX Demand in the AI Era?",
+    "description": "As AI becomes an everyday part of business and life, many users find it hard to confidently use these tools.",
+    "detail": "A great UX for human-AI collaboration builds trust, feels intuitive, and adapts to users' needs. For instance, designs that make AI actions clear and systems that adapt to users' contexts can make this collaboration seamless. Our site proposes human-centered designs that align with the evolving AI landscape."
+  },
+  "solutions": {
+    "title": "Adapting to Rapid Progress",
+    "description": "With AI advancing quickly, UX designs need to stay flexible and ready to adapt. For instance, building systems that can quickly incorporate new AI technologies or continuously improve based on user feedback are effective strategies.",
+    "detail": "We offer full support for integrating AI into your projects, from planning and prototyping to design and front-end development."
+  },
+  "showcase": {
+    "title": "Explore Our Mini Services",
+    "description": "We're releasing mini services to showcase the potential of human-AI teamwork. Try them out and let us know what you think!"
+  },
+  "contact": {
+    "title": "Let's explore new ideas for better usability, together.",
+    "description": "If you are interested in our activities or services, please feel free to contact us."
+  },
+  "about": {
+    "title": "About Us",
+    "description": "With 30 years of experience in Mac, iOS, and web app development, we're dedicated to crafting intuitive interfaces and reliable user experiences for the AI x UX world."
+  },
+  "cta": {
+    "getStarted": "Get Started",
+    "learnMore": "Learn More",
+    "contactUs": "Contact Us"
+  }
+} 
