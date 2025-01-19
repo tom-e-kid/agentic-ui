@@ -1,4 +1,4 @@
-'use client';
+"use client";
 
 import Link from "next/link";
 import { useTranslations } from "../../utils/i18n";
@@ -14,20 +14,6 @@ export default function Home() {
           <div className="mx-auto max-w-3xl text-center">
             <h1 className="heading">{t.title}</h1>
             <p className="subheading">{t.description}</p>
-            <div className="mt-10 flex items-center justify-center gap-x-6">
-              <Link
-                href="#contact"
-                className="rounded-md bg-primary px-6 py-3 text-lg font-semibold text-primary-foreground shadow-sm hover:opacity-90 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-primary"
-              >
-                {t.cta.getStarted}
-              </Link>
-              <Link
-                href="#services"
-                className="text-lg font-semibold leading-6 text-gray-900 hover:text-primary"
-              >
-                {t.cta.learnMore} <span aria-hidden="true">→</span>
-              </Link>
-            </div>
           </div>
         </div>
       </section>
@@ -117,4 +103,4 @@ export default function Home() {
       </section>
     </main>
   );
-} 
+}
