@@ -1,36 +1,25 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Agentic UI
 
-## Getting Started
+## AI x UX - Designing the Perfect Space for Human-AI Collaboration
+We explore how humans and AI can work together naturally to create intuitive and enjoyable user experiences.
 
-First, run the development server:
+## Concept
+**What Does UX Demand in the AI Era?**
+As AI becomes an everyday part of business and life, many users find it hard to confidently use these tools.
+A great UX for human-AI collaboration builds trust, feels intuitive, and adapts to users' needs. For instance, designs that make AI actions clear and systems that adapt to users' contexts can make this collaboration seamless. Our site proposes human-centered designs that align with the evolving AI landscape.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Solutions
+**Adapting to Rapid Progress**
+With AI advancing quickly, UX designs need to stay flexible and ready to adapt. For instance, building systems that can quickly incorporate new AI technologies or continuously improve based on user feedback are effective strategies.
+We offer full support for integrating AI into your projects, from planning and prototyping to design and front-end development.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Showcase
+**Explore Our Mini Services**
+We’re releasing mini services to showcase the potential of human-AI teamwork. Try them out and let us know what you think!
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Collaboration and Inquiries
+Let’s explore new ideas for better usability, together.
+If you are interested in our activities or services, please feel free to contact us.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## About Us
+With 30 years of experience in Mac, iOS, and web app development, we’re dedicated to crafting intuitive interfaces and reliable user experiences for the AI x UX world.
