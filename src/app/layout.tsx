@@ -14,14 +14,15 @@ export async function generateStaticParams() {
   return [{ locale: "en" }, { locale: "ja" }];
 }
 
-type Props = {
+export default function Layout({
+  children,
+  params,
+}: {
   children: React.ReactNode;
   params: { locale: string };
-};
-
-export default function Layout({ children, params: { locale } }: Props) {
+}) {
   return (
-    <html lang={locale} className="scroll-smooth">
+    <html lang={params.locale} className="scroll-smooth">
       <body className={inter.className}>
         <LanguageSwitcher />
         {children}
