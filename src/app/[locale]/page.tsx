@@ -78,7 +78,7 @@ export default function Home() {
             </p>
             <div className="mt-10">
               <Link
-                href="mailto:contact@example.com"
+                href="mailto:dev@agenticui.app"
                 className="rounded-md bg-primary px-6 py-3 text-lg font-semibold text-primary-foreground shadow-sm hover:opacity-90"
               >
                 {t.cta.contactUs}
